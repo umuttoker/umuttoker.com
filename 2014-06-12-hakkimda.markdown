@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /hakkimda/
 title: !binary |-
   SGFra8SxbWRh
 joomla_id: 2
