@@ -1,9 +1,7 @@
 # Site settings
-title: Umut TOKER's Github Blog
+title: Saçmalardan Seçmeler
 email: umt.toker@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A blog about some python, flask, android and OrientDB. You can
-  find some useful things to develop yourself with these technologies.
+description: Blog yazmak için çok artı özellikleri olmayan muhtemelen bundan 10-15 sene sonra kel göbekli bir mühendis olacak sırandan bir vatandaşım efendim.
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://umuttoker.com" # the base hostname & protocol for your site
