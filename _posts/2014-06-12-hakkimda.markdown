@@ -1,0 +1,18 @@
+---
+layout: post
+title: !binary |-
+  SGFra8SxbWRh
+joomla_id: 2
+joomla_url: hakkimda
+date: 2014-06-12 20:00:50.000000000 +03:00
+author: Super User
+excerpt: !binary |-
+  PHA+wqDCoMKgwqDCoMKgwqDCoMKgwqAgQmxvZyB5YXptYWsgacOnaW4gw6dv
+  ayBhcnTEsSDDtnplbGxpa2xlcmkgb2xtYXlhbiBtdWh0ZW1lbGVuIGJ1bmRh
+  biAxMC0xNSBzZW5lIHNvbnJhIGtlbCBnw7ZiZWtsaSBiaXIgbcO8aGVuZGlz
+  IG9sYWNhayBzxLFyYW5kYW4gYmlyIHZhdGFuZGHFn8SxbSBlZmVuZGltLjwv
+  cD4=
+category: !binary |-
+  S2nFn2lzZWw=
+---
+<p>           Blog yazmak için çok artı özellikleri olmayan muhtemelen bundan 10-15 sene sonra kel göbekli bir mühendis olacak sırandan bir vatandaşım efendim.</p>
