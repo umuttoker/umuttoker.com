@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: blog
 title: Anne
 joomla_id: 3
 joomla_url: anne
 date: 2014-12-01 16:09:05.000000000 +02:00
+summary: Son terlik bükücü
+image: /images/blog/anne.gif
 author: Super User
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoCBVenVuY2EgYmlyIHphbWFuIMO2
@@ -16,8 +18,7 @@ excerpt: !binary |-
   n2lsLiBFdmV0IGhlciB6YW1hbiBvbGR1xJ91IGdpYmkgYmF6xLEgxZ9leWxl
   cmUgc2FoaXBrZW4ga8SxeW1ldGluaSBiaWxtZW1layBvbGF5xLEgdGFtIHRh
   bcSxbmFkYSBidSB5YXrEsW7EsW4ga29udXN1LjwvcD4=
-category: !binary |-
-  S2nFn2lzZWw=
+category: blog
 ---
 <p>            Uzunca bir zaman önce yazılması gereken bir yazı aslında bu. Ama her zaman olduğu gibi "anne" en sona bırakılan bir olgu olmaya devam ediyor. Zamanında yazılsaydı, konu annenin kıymetini bilmek üzerine olacakken şuanda  yaptığımın bunla çelişmekten başka bir şey değil. Evet her zaman olduğu gibi bazı şeylere sahipken kıymetini bilmemek olayı tam tamınada bu yazının konusu.</p>
 

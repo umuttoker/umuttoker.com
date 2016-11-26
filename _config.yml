@@ -1,8 +1,14 @@
 # Site settings
-title: Saçmalardan Seçmeler
+full_name: "Umut TOKER"
+first_name: "Umut"
+last_name: "TOKER"
+blog_title: "Saçmalardan Seçmeler"
 email: umt.toker@gmail.com
+author_img_name_path: "/images/users/user.jpg"
+copyright_year: "2016"
 description: Blog yazmak için çok artı özellikleri olmayan muhtemelen bundan 10-15 sene sonra kel göbekli bir mühendis olacak sırandan bir vatandaşım efendim.
-  
+aboutme: "I like ramen noodles with cream."
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://umuttoker.com" # the base hostname & protocol for your site
 twitter_username: umuttoker

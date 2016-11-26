@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: blog
 title: !binary |-
   MjAxMyBZxLFsxLFuxLFuIEtyaXRpxJ9p
 joomla_id: 1
 joomla_url: 2013-yilinin-kritigi
+summary: Ergen sızlanmaları
+image: /images/blog/angry.gif
 date: 2014-06-12 19:53:44.000000000 +03:00
 author: Super User
 excerpt: !binary |-
@@ -12,8 +14,7 @@ excerpt: !binary |-
   IGFuY2FrIDIwMTQgecSxbMSxbsSxbiBnZXJpZGUga2FsYW4gNiBhecSxbsSx
   IGTDvMWfw7xuw7xuY2UgeWVuaSB5ZW5pIGFubGF5YWJpbGl5b3J1bSAyMDEz
   J8O8biBrxLF5bWV0aW5pLjwvcD4=
-category: !binary |-
-  S2nFn2lzZWw=
+category: blog
 ---
 <p>           Evet sanki biraz geç oldu 2013 yılının kritiğini yapmak için ancak 2014 yılının geride kalan 6 ayını düşününce yeni yeni anlayabiliyorum 2013'ün kıymetini.</p>
 

@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: blog
 title: !binary |-
   U29uIETDvHpsw7xr
 joomla_id: 4
 joomla_url: son-duzluk
 date: 2015-02-13 18:01:15.000000000 +02:00
+summary: Köprüden önceki son çıkış
+image: /images/blog/world.gif
 author: Super User
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoCAyMDE1IGUgZ2lyZWxpIGJpcmF6IHphbWFu
@@ -15,8 +17,7 @@ excerpt: !binary |-
   bmRlIGR1cm1heWEgw6dhbMSxxZ9hbiBiaXJpc2luaW4gbWFjZXJhbGFyxLEg
   b2xhcmFrIGRldmFtIGVkZWNlayBtdWh0ZW1lbGVuLiBCaXJheiBkYWhhIGNp
   ZGRpIGJpcmF6IGRhaGEgZmF6bGEgc29ydW1sdWx1a2xhLjwvcD4=
-category: !binary |-
-  S2nFn2lzZWw=
+category: blog
 ---
 <p>         2015 e gireli biraz zaman geçti ve 25 ime gireli de çok olmadı sayılır. Artık bana ayrılan "intro" nun sonuna geldiğimiz apaçık ortada. Bundan sonrası biraz daha erkekçe. Kendi ayakları üzerinde durmaya çalışan birisinin maceraları olarak devam edecek muhtemelen. Biraz daha ciddi biraz daha fazla sorumlulukla.</p>
 

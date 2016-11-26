@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: blog
 title: 22 KASIM 2015 - ERKEK OLMAK
 joomla_id: 5
 joomla_url: 22-kasim-2015-erkek-olmak
 date: 2015-12-16 09:14:42.000000000 +02:00
 author: Super User
+image: /images/blog/baba.gif
+summary: Birgünde alınan 10 yaş
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoMKgwqDCoCAyMiBLYXPEsW0gMjAx
   NSzCoCAxIE1hecSxcyAxOTU5J2RhbiBpdGliYXJlbiA1NiB5xLFsIDYgYXkg
@@ -13,8 +15,7 @@ excerpt: !binary |-
   YXQgb2xtYXlhbiBiaXIgw7ZtcsO8biBzw7xyZXNpIHNhZGVjZSA1NiB5xLFs
   LiBCYWJhbcSxbiB5YcWfYWTEscSfxLEgYmVuaW0gc2FkZWNlIDI1IHnEsWzE
   sW5hIMWfYWhpdCBvbGFiaWxkacSfaW0gNTYgecSxbC48L3A+
-category: !binary |-
-  S2nFn2lzZWw=
+category: blog
 ---
 <p>               22 Kasım 2015,  1 Mayıs 1959'dan itibaren 56 yıl 6 ay 21 gün demek bu. Bir ömür sığdırılan 56 yıl. Bir evlilik, iki çocuk ve çokta rahat olmayan bir ömrün süresi sadece 56 yıl. Babamın yaşadığı benim sadece 25 yılına şahit olabildiğim 56 yıl.</p>
 
