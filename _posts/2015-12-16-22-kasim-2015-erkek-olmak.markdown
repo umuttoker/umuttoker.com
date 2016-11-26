@@ -5,6 +5,7 @@ joomla_id: 5
 joomla_url: 22-kasim-2015-erkek-olmak
 date: 2015-12-16 09:14:42.000000000 +02:00
 author: Super User
+comments: true
 image: /images/blog/baba.gif
 summary: Birgünde alınan 10 yaş
 excerpt: !binary |-

@@ -7,7 +7,8 @@ email: umt.toker@gmail.com
 author_img_name_path: "/images/users/user.jpg"
 copyright_year: "2016"
 description: Blog yazmak için çok artı özellikleri olmayan muhtemelen bundan 10-15 sene sonra kel göbekli bir mühendis olacak sırandan bir vatandaşım efendim.
-aboutme: "I like ramen noodles with cream."
+aboutme: ""
+disqus_shortname : umuttoker
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://umuttoker.com" # the base hostname & protocol for your site

@@ -7,6 +7,7 @@ joomla_url: 2013-yilinin-kritigi
 summary: Ergen sızlanmaları
 image: /images/blog/angry.gif
 date: 2014-06-12 19:53:44.000000000 +03:00
+comments: true
 author: Super User
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoMKgwqAgRXZldCBzYW5raSBiaXJheiBnZcOn

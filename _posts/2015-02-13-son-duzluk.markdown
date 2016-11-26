@@ -7,6 +7,7 @@ joomla_url: son-duzluk
 date: 2015-02-13 18:01:15.000000000 +02:00
 summary: Köprüden önceki son çıkış
 image: /images/blog/world.gif
+comments: true
 author: Super User
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoCAyMDE1IGUgZ2lyZWxpIGJpcmF6IHphbWFu

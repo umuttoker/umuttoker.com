@@ -6,6 +6,7 @@ joomla_url: anne
 date: 2014-12-01 16:09:05.000000000 +02:00
 summary: Son terlik bükücü
 image: /images/blog/anne.gif
+comments: true
 author: Super User
 excerpt: !binary |-
   PHA+wqDCoMKgwqDCoMKgwqDCoMKgwqDCoCBVenVuY2EgYmlyIHphbWFuIMO2
